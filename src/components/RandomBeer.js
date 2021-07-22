@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+/* import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import Navbar from './NavBar';
@@ -40,4 +40,4 @@ function RandomBeer(){
 }
 
 
-export default RandomBeer;
+export default RandomBeer; */
